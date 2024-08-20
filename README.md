@@ -1,7 +1,7 @@
 <h1 align="center"> Fotoblog </h1>
 
 <p align="center">
-O site fotoblog concentra-se na publicação de fotografias, com informações concisas, em vez de longos textos em um site. Site disponível em: https://brunooliveira7.github.io/Site-Fotoblog/
+O site fotoblog concentra-se na publicação de fotografias e imagens, com informações concisas, em vez de longos textos em um site. Site disponível em: https://brunooliveira7.github.io/Site-Fotoblog/
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ Projeto desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O site fotoblog possui campo para pesquisas, login e usuário, que facilitam a navegação.
+O site fotoblog possui campo para pesquisas de fotografias e imagens, com login e usuário, que facilitam a navegação.
 
 ## 🔖 Layout
 
