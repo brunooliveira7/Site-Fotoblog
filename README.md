@@ -27,7 +27,7 @@ Projeto desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Explore sem limites possui formulário para que os usuários entrem em contato e realizem sua inscrição no curso.
+O site fotoblog possui campo para pesquisas, login e usuário, que facilitam a navegação.
 
 ## 🔖 Layout
 
